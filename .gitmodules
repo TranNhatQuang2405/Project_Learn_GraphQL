@@ -1,3 +1,6 @@
 [submodule "Learn_GraphQL_Server"]
 	path = Learn_GraphQL_Server
 	url = https://github.com/TranNhatQuang2405/Learn_GraphQL_Server.git
+[submodule "Learn_GraphQL_Client"]
+	path = Learn_GraphQL_Client
+	url = https://github.com/TranNhatQuang2405/Learn_GraphQL_Client.git
